@@ -2,6 +2,8 @@
 public class testaGerente {
 
 	public static void main(String[] args) {
+		// poderia ter criado um arquivo chamado main.java e feito todos os testes dentro dele
+		// pois via de regra uma aplicação tem um e somente um ponto de entrada, então vários aquiuvos com a declaração main acabam mais por atrapalhar do que ajudar
 		
 		Gerente g1 = new Gerente();
 		
